@@ -8,6 +8,6 @@ My skills:
 - Handle API: GraphQL, Apollo, REST.
 - write tests with the help of Cypress
 - make localization with react-i18n library
-- mobile development with flutter
+- mobile development with Flutter
 
 I`m good team player as well as solo performer. Happy to help you! 
