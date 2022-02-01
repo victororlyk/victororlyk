@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am passioned Javascript developer with a great experience in a wide range of technologies. I am good at React, Redux, TS, JS and eager to learn new all the time.
+I am passioned Javascript developer with a great experience in a wide range of technologies. I am good at React, Redux, TS, JS and eager to learn Kotlin and Python.
 
 My skills:
 - Build frontend applications with React, Vue
@@ -9,6 +9,6 @@ My skills:
 - write tests with the help of Cypress
 - make localization with react-i18n library
 - mobile development with Kotlin
-- web scrapping with python
+- web scrapping with Python
 
 I`m good team player as well as solo performer. Happy to help you! 
