@@ -9,6 +9,6 @@ My skills:
 - write tests with the help of Cypress, Kotest, Jest
 - make localization with react-i18n library
 - mobile development with React Native +  Kotlin and Swift
-- backend development with Axum(Rust)
+- backend development with Axum(Rust), Ktor(Kotlin)
 
 I`m good team player as well as solo performer. Happy to help you! 
