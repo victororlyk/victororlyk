@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am passioned Typescript developer with a great experience in a wide range of technologies. I am good at React, Redux, TS, JS and eager to learn Kotlin and Rust.
+I am passioned Typescript developer with a great experience in a wide range of technologies. I am good at React, Redux, TS, JS, Kotlin.
 
 My skills:
 - Build frontend applications with React, Vue
