@@ -31,16 +31,6 @@
   - Localization and internationalization workflows
   - AI-assisted development for research, prototyping, debugging, and productivity
 
-  ## Featured Projects
-
-  - **Project One**
-    Short description of what it does and what you built with.
-
-  - **Project Two**
-    Short description of the product, stack, or problem it solves.
-
-  - **Project Three**
-    Short description highlighting your role and the technologies used.
 
   ## Current Focus
 
