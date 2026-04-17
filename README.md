@@ -41,8 +41,8 @@
 
   ## GitHub Stats
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victororlyk&show_icons=true&hide_title=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victororlyk&layout=compact)
 
   ## Contact
   - Email: victor.orlyk93@gmail.com
