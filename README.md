@@ -2,7 +2,7 @@
 
 Full-stack developer building reliable web and mobile applications with TypeScript, Kotlin, Swift, and Python.
 
-I work mostly with React and React Native, and I'm comfortable across frontend, mobile, and backend. I also build developer tooling, like a Kotlin snippets extension for the Zed editor.
+I work mostly with React and React Native, and I'm comfortable across frontend, mobile, and backend. I use AI coding agents daily and build AI-powered features and tooling of my own.
 
 ## Tech Stack
 
@@ -38,12 +38,26 @@ I work mostly with React and React Native, and I'm comfortable across frontend, 
 - **Backend:** Ktor services in Kotlin, REST and GraphQL APIs, Python for scripting and automation
 - **Testing:** Jest, Cypress, and Kotest
 - **Localization:** i18n and l10n workflows for multi-language products
-- **AI-assisted development:** research, prototyping, and debugging
+
+## AI
+
+**How I use it**
+
+- Coding agents for research, prototyping, debugging, and refactoring
+- Custom instructions, skills, and automations to make agent output consistent and reviewable
+- AI as an accelerator, not a replacement: I review, test, and own everything I ship
+
+**What I build with it**
+
+- LLM-powered features in web and mobile apps
+- Agents and tool integrations that automate engineering workflows
+- Developer tooling that plugs AI into the editor and CLI
 
 ## Current Focus
 
 - Shipping production-ready features across web and mobile
 - Writing maintainable, well-tested TypeScript
+- Building AI agents and LLM-powered product features
 - Building editor and developer tooling
 
 ## Contact
