@@ -1,6 +1,6 @@
 # Hi, I'm Viktor 👋
 
-Full-stack developer building reliable web and mobile applications with TypeScript, Kotlin, Swift, and Python.
+Full-stack developer building reliable web and mobile applications with TypeScript, Kotlin, Swift, Python, and Rust.
 
 I work mostly with React and React Native, and I'm comfortable across frontend, mobile, and backend. I use AI coding agents daily and build AI-powered features and tooling of my own.
 
@@ -13,6 +13,7 @@ I work mostly with React and React Native, and I'm comfortable across frontend, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Frontend and mobile**
 
@@ -24,6 +25,7 @@ I work mostly with React and React Native, and I'm comfortable across frontend, 
 **Backend and APIs**
 
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Testing**
@@ -35,7 +37,7 @@ I work mostly with React and React Native, and I'm comfortable across frontend, 
 
 - **Web:** React and Vue apps in TypeScript, with Redux, Zustand, Jotai, Vuex, and TanStack Query
 - **Mobile:** React Native and Expo, plus native Kotlin (Android) and Swift (iOS)
-- **Backend:** Ktor services in Kotlin, REST and GraphQL APIs, Python for scripting and automation
+- **Backend:** Ktor (Kotlin) and Axum (Rust) services, REST and GraphQL APIs, Python for scripting and automation
 - **Testing:** Jest, Cypress, and Kotest
 - **Localization:** i18n and l10n workflows for multi-language products
 
